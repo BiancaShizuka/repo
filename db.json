@@ -1,0 +1,45 @@
+{
+  "alunos" :[
+	{
+		"id":1,
+		"nomeCompleto":"asdasdasda",
+		"email":"asd@drg.co",
+		"dataNasc":"2004-03-18",
+		"ra":"123",
+		"cidade":"Sáo Paulo",
+		"curso":"BSI",
+		"opiniao":"sim","grau":"facil"
+	},
+	{
+		"id":2,
+		"nomeCompleto":"asdasdasda",
+		"email":"asd@drg.cosa",
+		"dataNasc":"2001-10-04",
+		"ra":"10275",
+		"cidade":"Prudente",
+		"curso":"BSI",
+		"opiniao":"sim",
+		"grau":"facil"
+	},
+	{
+		"id":3,
+		"nomeCompleto":"BIanca asda",
+		"email":"asd@drg.com","dataNasc":"2003-11-04",
+		"ra":"131532115",
+		"cidade":"Sáo Paulo",
+		"curso":"Engenharia Civil",
+		"opiniao":"sim",
+		"grau":"medio"
+	},
+	{
+		"id":4,
+		"nomeCompleto":"Henriquen sefsd",
+		"email":"henrique@hotmail.com",
+		"dataNasc":"2003-12-10",
+		"ra":"1556843",
+		"cidade":"Sáo Paulo",
+		"curso":"BSI",
+		"opiniao":"sim",
+		"grau":"medio"}
+  ]
+}
